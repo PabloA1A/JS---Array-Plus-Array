@@ -28,12 +28,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PabloA1A/JS---Third-angle-of-the-triangle.git"
+    "url": "git+https://github.com/PabloA1A/JS---Array-Plus-Array.git"
   },
   "author": "Pablo Abad",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PabloA1A/JS---Third-angle-of-the-triangle/issues"
+    "url": "https://github.com/PabloA1A/JS---Array-Plus-Array/issues"
   },
-  "homepage": "https://github.com/PabloA1A/JS---Third-angle-of-the-triangle#readme"
+  "homepage": "https://github.com/PabloA1A/JS---Array-Plus-Array#readme"
 }
