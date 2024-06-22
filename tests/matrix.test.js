@@ -4,6 +4,7 @@ import { arrSum } from "../src/matrix";
 describe('arrSum', () => {
     const testCases = [
         { arr1: [1, 2, 3], arr2: [4, 5, 6], expected: 21 },
+        { arr1: [-1, -2, -3], arr2: [-4, -5, -6], expected: -21 },
     ];
 
     testCases.forEach(({ arr1, arr2, expected }) => {
