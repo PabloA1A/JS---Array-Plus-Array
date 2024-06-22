@@ -5,6 +5,7 @@ describe('arrSum', () => {
     const testCases = [
         { arr1: [1, 2, 3], arr2: [4, 5, 6], expected: 21 },
         { arr1: [-1, -2, -3], arr2: [-4, -5, -6], expected: -21 },
+        { arr1: [0, 0, 0, 0], arr2: [4, 5, 6], expected: 15 },
     ];
 
     testCases.forEach(({ arr1, arr2, expected }) => {
