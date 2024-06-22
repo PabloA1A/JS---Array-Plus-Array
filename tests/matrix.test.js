@@ -6,6 +6,7 @@ describe('arrSum', () => {
         { arr1: [1, 2, 3], arr2: [4, 5, 6], expected: 21 },
         { arr1: [-1, -2, -3], arr2: [-4, -5, -6], expected: -21 },
         { arr1: [0, 0, 0, 0], arr2: [4, 5, 6], expected: 15 },
+        { arr1: [100, 200, 300], arr2: [400, 500, 600], expected: 2100 }
     ];
 
     testCases.forEach(({ arr1, arr2, expected }) => {
