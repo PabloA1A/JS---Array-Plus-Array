@@ -57,3 +57,9 @@ Output:
 2) -21
 3) 15
 4) 2100
+
+## Files:
+
+## SRC = flower.js
+
+## SRC => TESTS = flower.test.js
